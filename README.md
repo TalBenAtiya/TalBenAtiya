@@ -14,7 +14,7 @@
 ###
 
 <p align="left">
-  • 🌱 Tech lover.
+  • 🤖 Tech lover.
   </br>
   </br>
   • 🎯 A team player, striving for excellence and maximizing my skills.
