@@ -13,10 +13,20 @@
 
 ###
 
-<p align="left">🌱 Tech lover<br>🎯 A team player, striving for excellence and maximizing my skills.
-  <br>🏆 My latest project: a clone of Monday, check it out! <a href="https://agenda-platform.herokuapp.com">Agenda</a>
-  <br>📚 I'm currently learning Next.js.
-  <br>🎲 Fun fact: Love Martial arts, Sports and Gaming.</p>
+<p align="left">
+  • 🌱 Tech lover.
+  </br>
+  </br>
+  • 🎯 A team player, striving for excellence and maximizing my skills.
+  </br>
+  </br>
+  • 🏆 My latest project: a clone of Monday, check it out! <a href="https://agenda-platform.herokuapp.com">Agenda</a>
+  </br>
+  </br>
+  • 📚 I'm currently learning Next.js.
+  </br>
+  </br>
+  • 🎲 Fun fact: Love Martial arts, Sports and Gaming.</p>
 
 ###
 
