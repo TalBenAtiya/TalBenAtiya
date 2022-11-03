@@ -56,7 +56,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/talbenatiya/talbenatiya/blob/output/snake.svg" alt="Snake animation" />
-
-###
