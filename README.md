@@ -23,9 +23,6 @@
   • 🏆 My latest project: a clone of Monday, check it out! <a href="https://agenda-platform.herokuapp.com">Agenda</a>
   </br>
   </br>
-  • 📚 I'm currently learning Next.js.
-  </br>
-  </br>
   • 🎲 Fun fact: Love Martial arts, Sports and Gaming.</p>
 
 ###
